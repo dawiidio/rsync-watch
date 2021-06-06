@@ -1,0 +1,5 @@
+node_modules
+rsync.config.js
+test-dir
+dest
+package-lock.json
